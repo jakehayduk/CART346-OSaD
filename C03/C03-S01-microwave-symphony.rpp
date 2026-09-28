@@ -1,0 +1,3715 @@
+<REAPER_PROJECT 0.1 "7.79/win64" 1790568495 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 0.25 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 0.3
+  ZOOM 50.47430263272151 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN $project
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_NORMALIZE 193 0.125893 0.891251 0 0 1 1
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 100 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {ACCE4EE0-E00D-46AE-B697-974A218C584A}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {F062560B-102D-4DD9-A3AB-3775BCB8A7E8}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {AB3673B4-8F70-4F47-A04D-658A9F6522BC}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {A1F8ACB7-8029-4BC7-9368-3E50B822B289}
+    NAME "Reference B"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A1F8ACB7-8029-4BC7-9368-3E50B822B289}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 1177 512 859 560
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AAAAAAAAAAAeAAAAuAEAAAAAAAD/DwAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAB4AgAA
+        vwEAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BFB91936-87FA-46E3-8FAD-E307558A5246}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10202776-6D60-4237-92B9-69B7BD7A2CD6}
+      IID 37
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.2465 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4656AB0B-667A-41B9-B937-CA424BA6E3D7}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {034716CE-4FFB-48B7-B913-73688A690BA0}
+      IID 42
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.2465 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4CA7A80-5587-4657-A2DE-D8037F6FD825}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFE878B4-165B-42CF-B0D9-F51083B27225}
+      IID 46
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.2465 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DDDFC14A-48EB-4859-9282-F1626DEA98F3}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BEAFCB45-8CD6-4DC7-81DA-E29DEBCE1182}
+      IID 50
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.2465 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3A23BD7-B888-4B20-B8AE-835590B28C1D}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.4
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F4FF50A7-2C2E-4F9D-8F35-D4196175C017}
+      IID 54
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38313832168121
+      PLAYRATE 0.2327 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D64C1F51-1D07-41E2-B601-B98058D662A3}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DDB08F0E-0EC6-48D1-841E-50E9BDD16150}
+      IID 58
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38313832168121
+      PLAYRATE 0.2327 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1564A4A6-1356-42BA-9A0D-D1C78256752A}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB08CF46-F9EA-44A3-B74C-18F16E140363}
+      IID 62
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38313832168121
+      PLAYRATE 0.2327 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99EEDB8D-A350-467C-97DF-0E7FE7BD849D}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10324746-F258-4888-9E57-EF910D6FECD9}
+      IID 66
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38313832168121
+      PLAYRATE 0.2327 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44AD6D7B-854D-43FD-97FA-3835DAF6F62A}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {464C4E1B-7EA1-48FB-BF1C-F4FD5A9C2623}
+      IID 70
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38313832168121
+      PLAYRATE 0.2196 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {667FAE1D-DDD5-46E6-A110-3A35034F6F09}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.4
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B8A81EF3-F254-4FEA-8C11-57F0C25D5586}
+      IID 94
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38313832168121
+      PLAYRATE 0.2196 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82721E28-A40F-48C8-B7FD-6E4A6DA4C3EB}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {751C4293-F94B-4F36-B0F1-707FCBAC3B82}
+      IID 98
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38313832168121
+      PLAYRATE 0.2196 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6ECE1FBB-EBA2-4923-8888-E6A7BC363885}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {837BE6CF-F455-491B-A677-810EB5723FCF}
+      IID 102
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38313832168121
+      PLAYRATE 0.2196 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5DD3DFB7-B7DA-4BDA-B6F1-F911586E5769}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7AAF9E0F-3BFD-4BEA-8993-8DBBA4895FC4}
+      IID 114
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38313832168121
+      PLAYRATE 0.2073 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D78439F-37A9-48EC-B9E9-DBEB75157C74}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {53B8DE61-9B6E-4948-9DE5-36F474B5594F}
+      IID 115
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38313832168121
+      PLAYRATE 0.2073 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C12A2A17-8A89-4CBE-A7B5-C37E06D468F9}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.4
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D5DE5440-D737-4028-B5BB-B3705793BEAF}
+      IID 116
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38313832168121
+      PLAYRATE 0.2073 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB2FF201-279A-4DEA-BF27-2EBEA6F2BB72}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C16374D-9DAD-4312-9EE8-C2FCC2F892E0}
+      IID 142
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.38313832168121
+      PLAYRATE 0.2073 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB1065D0-0FCD-418E-9086-E1255455E080}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+  >
+  <TRACK {D3C58C52-3CD1-4719-B3EF-B69602A07A05}
+    NAME "harm 1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.62932758817064 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D3C58C52-3CD1-4719-B3EF-B69602A07A05}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6FBCA9C5-1128-4E06-876E-29A4F2300025}
+      IID 38
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7641C17-B290-4DBB-A1E1-2A304F470054}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7CEB870A-0528-469B-8BE8-75A0E884B18A}
+      IID 43
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B33DCB17-AB4B-4059-9D6E-1ED826F20B8B}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D4330816-81AE-4450-A9E5-97BC0A4ED8EE}
+      IID 47
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB7E55BC-9656-4CE6-9596-54B3DAED7FFE}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {760DC1D6-EC4B-4A8F-AF7C-713D3C55160A}
+      IID 51
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E0695A8-BE4A-4189-BF8F-E9284CACF672}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.4
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD3E59F9-E425-4317-A148-BD933FE52201}
+      IID 55
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33457462599338
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2E1BD40-CD51-442E-BE0A-DBD350B44D5C}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {33933024-B547-4BCA-87AD-AA5D3F1C1148}
+      IID 59
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33457462599338
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32A31AF9-A5AF-4E7B-B38E-C53942B22ECF}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4830640D-06CC-4A73-B565-DE92D10A3351}
+      IID 63
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33457462599338
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA9B0DA4-0A38-4D16-84C2-90B51613995A}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {34691917-DBFB-4918-B512-698BC2EB34AF}
+      IID 67
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33457462599338
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A58A552D-2F36-4D06-A51E-5A6DAD5BDAD1}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {71D8B07B-B24A-4DD1-BBA9-1F6869B1C095}
+      IID 71
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33457462599338
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7936F029-14AE-4DA0-BFB2-71E40C6AD22A}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.4
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C483B49-94E6-45DF-A258-14EAE475A278}
+      IID 95
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33457462599338
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0F2C152-9146-4638-8150-D5A87346701A}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A5CE995-71AE-4378-8CF0-16C08BE5F5B7}
+      IID 99
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33457462599338
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD62E01C-0B12-4124-A964-B210F69B5DFE}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8A625171-0152-4221-97F9-C876F89AEE1C}
+      IID 103
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33457462599338
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2034AA1E-F7B6-4F72-B3B9-B44C23CF958B}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0657B18-EF8F-48FD-A5AE-DB3AE0A4F799}
+      IID 117
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33457462599338
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {301E544F-4D7F-442D-A402-A3425C4F296B}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE1F2402-E242-447E-A3BF-618F997260B5}
+      IID 125
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33457462599338
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8D5C3DD-7FDC-46F1-B804-E46E2EF6AFB9}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.4
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ACF53A4A-C8CE-4F37-8793-22ECD141D4EC}
+      IID 129
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33457462599338
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD2D1F32-7916-4EB3-8E36-B478425DEC10}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF553145-094A-49BE-87B2-3E0B7CDA3BA8}
+      IID 133
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33457462599338
+      PLAYRATE 0.3106 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24F67920-6396-4706-A48A-11D842B5B694}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+  >
+  <TRACK {51E44F2F-A956-41F7-B23A-8399C4568305}
+    NAME "harm 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.64382266579432 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {51E44F2F-A956-41F7-B23A-8399C4568305}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E13A72DE-555E-4342-8093-14FA8B51ABE3}
+      IID 39
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B3F7844-FA99-45EB-BBB6-0A49E0F8215E}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9A3B38EC-9450-4BBC-9476-B042DEB0AA1D}
+      IID 44
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5848B30-444F-4535-AE9E-027E4C456EBC}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF07AE46-6F1B-4F9A-B701-5672BD7E88CB}
+      IID 48
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7A4F9BC-6C37-4D44-BD35-45DC98EB7030}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80B1B62E-6808-4942-830A-C7B608ECB467}
+      IID 52
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C106CD9B-747F-4E6C-BACA-EEBE402C4FF8}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.4
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D9C8CE5-9C87-4DC7-AAD7-21AA1883B506}
+      IID 56
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {876F1C0E-2CF3-4094-AA28-8C21FACE6AD2}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ECB0CD9A-8DD7-4618-B087-079D049DB9F6}
+      IID 60
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3648DF40-76A6-40E1-A5F8-C9783A697BE9}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5B17A074-B68B-4EF8-B304-597D6039A75E}
+      IID 64
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {51E98F57-E8B3-4922-A6E8-5B990C448F49}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {323AAEEF-9C77-469A-9BB6-BD49EB0191EF}
+      IID 68
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC805E8B-ABE6-4E02-AA7F-6B7B04A652B5}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65CFCAA4-9AA9-4278-AFE1-784210E4E870}
+      IID 72
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18EB6C95-0464-4BB5-A7F6-E99CB43D09EC}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.4
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B8A89C75-0FAF-452E-A052-CE9AD9DF42A3}
+      IID 96
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40505F78-D783-4377-88BD-DD77D92467C8}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {78E154B3-1BF3-426D-954F-D8946F3DE979}
+      IID 100
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {907A2CB8-E288-4938-AA79-52B4FDC1817E}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB55B30A-74C7-4FAF-AAD3-F13C74A8EE30}
+      IID 104
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23342711-C409-4722-ACFB-6AB509A38B88}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5CF47424-1BDB-42CD-BAAC-26A2CD4EC4E1}
+      IID 120
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F99E1E10-F996-4B45-AA9F-4058B76ED13F}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {72FBDFC5-9EEF-475A-9579-9842FC08B891}
+      IID 126
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F02686C-23B2-4C67-BFF0-BDADBA4C92BD}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.4
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E084E995-3A46-4A28-AE39-C02E9BD701E1}
+      IID 130
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {812EB074-DD57-436A-B3BD-F650A019A123}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7187EDB4-3B12-4116-9C4D-861E47E0C3D6}
+      IID 134
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.3693 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE6283EF-A189-4104-BB4C-82521CD82169}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+  >
+  <TRACK {DECD3BCA-B3E3-4847-BFE4-40D902B23CCE}
+    NAME "harm 3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DECD3BCA-B3E3-4847-BFE4-40D902B23CCE}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E79360E0-5127-4A41-9636-77CDD7244291}
+      IID 40
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98773CEF-56AF-4864-A922-C1C6094BD326}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19F2A2A1-DEAB-4365-95CF-1A96098FC590}
+      IID 45
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEF1F507-06E1-4746-AF96-CA7B2B2ABE58}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E7F61937-1597-48EE-9925-36D68832A511}
+      IID 49
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F527D6E0-D336-4F4D-9D31-A5AFA993F65C}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5028F65E-22DA-4FAC-94D9-1A4F6F1F94ED}
+      IID 53
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00215157624829
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAB56FF4-B69D-4FE7-8673-C07C21D485EB}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.4
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EBA301E2-5CDF-4AE6-AB0F-C27E556BC0A0}
+      IID 57
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.2381329864182
+      PLAYRATE 0.4653 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0657769B-5F6A-4672-9342-2A84D5DB4B6F}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4F34B89F-2696-4D07-8690-DD88F7028216}
+      IID 61
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.2381329864182
+      PLAYRATE 0.4653 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F9F85E2-0B74-4E76-A1D6-6B4D803351E3}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B6E3C606-7455-4F2E-A30F-F9AFAEF442C2}
+      IID 65
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.2381329864182
+      PLAYRATE 0.4653 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F87CBD18-6671-4D4F-8F90-96D7618C0220}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {188C242F-C9AF-4AA6-B38E-7A4517839BB3}
+      IID 69
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.2381329864182
+      PLAYRATE 0.4653 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0609602-7951-4453-8634-22828673EC4E}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F871832-C615-4E4B-B5E4-6E8349F41061}
+      IID 106
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.493 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC95BC8D-D2FC-4B9B-AB56-E00E44D290E8}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.4
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DAE546C2-F04B-413F-A2F7-F11182CEC2A5}
+      IID 107
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.493 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E09DCC3A-7773-4066-B919-34170993A747}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F8D0651F-DB45-4CC1-906F-796FCE48A006}
+      IID 108
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.493 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {926E11EA-D963-4CC9-BFD7-B4B789BF6513}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.3
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {222DB5A4-83FB-40B2-AF3E-B19EB63D9BA0}
+      IID 109
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.5534 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C23BA9C0-FBF8-4201-96D0-BCA57DB84D06}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C1DBB000-8FB8-4891-8904-1BF4FB99E1BA}
+      IID 110
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.493 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4336DBB-846E-4E2B-8C7B-82577AAFF3D3}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {466F7DAF-9DA1-4385-8E7D-30A9E66D8770}
+      IID 123
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.4146 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D802D94C-6728-43B8-8747-99A0C51168D1}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5CEB415-C6EF-421D-8388-CC62D10D17E3}
+      IID 127
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.4146 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA1878EF-1179-450B-BFF3-43BFA6027398}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.4
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9B082C6C-C989-4CBB-B109-2A27A5C65717}
+      IID 131
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.4146 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6894D817-B7A8-42E1-A002-8B294D499C3E}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA1615E8-6072-438F-BFB4-7D377C09F547}
+      IID 135
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.4146 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B5231CA-5ED0-4EF7-A2EF-F0F852C8559B}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.6
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65DDE994-39F4-4D1F-AF7A-8C371656B6CA}
+      IID 206
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.5534 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92B4CC7A-B13C-4103-9536-A5BC6FF9129C}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.05
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1.1 0.3 0.15 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {74167356-4D8C-485E-9343-C2EE1FB8F7FC}
+      IID 210
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.4146 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5250D9F2-904D-43C9-87BF-DD217C0AFFCE}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.2
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 1 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8336F9B8-B9E5-45A4-B944-FDCA6DCEAF8D}
+      IID 211
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.4653 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {874B5869-D7E9-4880-B5F0-6176A4DC8EFF}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.5
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1852A02C-452A-4C73-A007-BC4581774227}
+      IID 223
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.493 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99459605-1E97-4ED1-8C42-CB6A453F3F81}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.8
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.3 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C7828A2-5A86-45CD-BFC1-21319ECC2943}
+      IID 214
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29798041627739
+      PLAYRATE 0.493 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90BFEAD2-A57E-43FB-9C48-4603868CDF25}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+  >
+  <TRACK {9F0BD206-83F2-433A-9052-70500C8467DB}
+    NAME bass
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9F0BD206-83F2-433A-9052-70500C8467DB}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {030969E2-8DC7-4FBD-9A82-B510ABE35080}
+      IID 41
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0308 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EA055B1-3E12-458F-A8C9-2648B9CF3D52}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.6
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {13647E8A-D3FD-4EF3-9FCD-314CD475D7F2}
+      IID 74
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0308 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F36C1205-3DDE-4266-B31E-AC5E92A75B34}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.2
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9CC3A754-0596-4CBE-94D2-98F2000CE49A}
+      IID 75
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0308 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B526060-CE66-4365-A12B-26CFD96C95C7}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.8
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9068B8F5-A6B1-45A0-8E6D-E2C93C7D47D2}
+      IID 76
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0308 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C180568-78AA-40F8-9D1C-8686186FA56B}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.4
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50B214FE-C05A-444F-8863-6728536AC941}
+      IID 90
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0308 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBF1341E-6792-439C-A997-E526B92D26EF}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7FE166BA-0F75-460D-BC8C-B38B39DB4BAF}
+      IID 91
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0308 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B351BD93-8093-406B-835E-308DB32778FC}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.6
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {109FED99-3A80-40E3-AE79-4DD7D2C5E14F}
+      IID 92
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0308 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {302E635D-418D-4A01-B43A-2C4369AAC07E}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.2
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5F3EE815-1BC0-4D7A-9C8C-1DD7BBE5DC30}
+      IID 93
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0308 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92B0627A-9B16-46EF-A01C-CB15F88B35A1}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.8
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {45A92CDF-B8DA-4FEB-A970-5C14D19D3F26}
+      IID 85
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0275 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACB6A455-B0E5-4773-BF1A-33D011D2995E}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.4
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CA9045F4-465B-46B5-9279-1C95D3C5C077}
+      IID 97
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0275 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76C3B903-BAAC-4A55-A939-C33D1B88B01C}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {45658E68-52E6-45CE-AB2B-BE02E9095E59}
+      IID 101
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0275 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {027B3173-F651-4D02-8B75-2769EE010C6D}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.6
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D16BD8DD-CCFC-42FD-86DD-08DED2EC0E1A}
+      IID 105
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0275 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D83C362E-7FD2-4E1F-BA18-EBA3E5CE0E65}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.2
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5AB7216B-8E50-4920-9EB2-5C5C1218EC58}
+      IID 111
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7AE5C6B9-9999-4A51-A132-C2D14DC14F4C}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.8
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {68B43DC2-79C4-47F1-B694-93061AC89ABF}
+      IID 128
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CEFED2FA-71D4-4E63-A81C-9620284219CE}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.4
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09259BC8-2BE0-4E47-BF66-7E1D1EE64B5D}
+      IID 132
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0FF923F0-2E38-4903-B04C-B5EFC08CF710}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.57981027894691 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58C715A2-3911-4171-947F-199B996A9B30}
+      IID 136
+      NAME "Week 2-004.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD7198A6-38AD-4867-AA0B-094F31977D36}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.8
+      SNAPOFFS 0
+      LENGTH 0.75
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.75 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BDF1DDC6-AFD6-42DD-9BB8-302BA5CAA553}
+      IID 217
+      NAME "Week 2-004.wav"
+      VOLPAN 0.524807 0 1 -1
+      SOFFS 0.00933066899674
+      PLAYRATE 0.0308 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03FDC531-DFD5-4BCD-9A46-64797CC5F399}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+  >
+  <TRACK {5D890791-0BAE-4DA1-A829-CAAF1AC0E4A3}
+    NAME "kick low"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5D890791-0BAE-4DA1-A829-CAAF1AC0E4A3}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {44BEA69D-C808-4E49-9227-387A6BED55A9}
+      IID 143
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3C33426-96CD-4E6F-995F-89515C285E82}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.9
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {084924AF-EE45-4035-B0AA-B229EEAB9177}
+      IID 155
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E24B01D4-805B-46B6-B5C1-D5A78BD1B810}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.2
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B937086C-7C8D-468C-A2B0-E368AE21D2F9}
+      IID 149
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D69A0302-74E8-4220-BD3E-FDA7586A9449}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.4
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6919C157-87FE-4B0D-8F04-3C99B2BD697B}
+      IID 158
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B1FED1D5-F81C-41FB-B410-2F0F9D6B0729}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.7
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B48B59C2-007F-46D9-9EFE-2B9DF0C31F75}
+      IID 159
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {235D0075-D19D-4D30-8E1F-00A82ACF1F45}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.3
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4CB58C87-99A5-4FE3-800B-3F62C5A4DC97}
+      IID 164
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {196D7991-DD8E-430F-8558-AE73FCDFF232}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.6
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C5DD1C3-3F55-4C43-A236-2A890EFF6FFE}
+      IID 165
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E789764-9AEB-4514-872B-450AC2045C64}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.8
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A5AEC5E-FB13-4432-83D0-B972255DC256}
+      IID 170
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0C8440C-24B1-4C6B-A866-9C8BE470ED8D}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.7
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EC41A3D1-910A-4676-9DF3-5166C96D07D4}
+      IID 171
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC145401-2BA8-4EA9-AE79-6A29D9A4E4BF}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5AEDBEB2-B933-4158-903E-95BEDFA26D3F}
+      IID 172
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B0310D8-E3AD-47F2-838B-AD2FFDEBC4C9}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.2
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9DF2FA29-3B2C-4E85-BBEE-538F0CB9E032}
+      IID 173
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2669085E-BBF0-4849-A4E1-B13CB6DE6DDB}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5DCBEEF-958B-40ED-A094-9655D878AC27}
+      IID 174
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9304534A-0554-430E-AFB5-D088386084A3}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.1
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C233DF25-439E-4096-909D-562BF0B6FE85}
+      IID 175
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64CEC694-75C5-4CA2-978C-6B918FD2D399}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.4
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF41E68B-C838-472A-9AD3-9DE1B6158A62}
+      IID 176
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C7F98AA-47B6-40A6-BAAB-89B12C547040}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.6
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F3354D85-39BB-4C31-8261-AB108BC7CF13}
+      IID 207
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C311B41-275E-4911-BACC-D0205C0FE851}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.8
+      SNAPOFFS 0
+      LENGTH 0.09954936813556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.09954936813556 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF11A138-4531-49B8-B8E0-56A5DFC304EE}
+      IID 219
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0077 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F020A6D0-CEE2-41F5-A910-241B2C37F91E}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+  >
+  <TRACK {ED21A903-78CE-43A2-8A23-45019E935326}
+    NAME "kick mid"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {ED21A903-78CE-43A2-8A23-45019E935326}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {85885D0A-46FD-4A4E-AE92-80FF679886DD}
+      IID 143
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E37423D-978E-4189-AF7F-9688E40A3106}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.9
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3FF56795-EBE5-47AA-95E1-86AD1064D687}
+      IID 156
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D065208-CC05-4797-A6CB-E3677C86E425}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.2
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0E0F6C7-8AF3-494E-8DBC-3ECC6F3B6941}
+      IID 150
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4522BD95-27FA-43E2-BFBF-DDE5CDCE4A97}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.4
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {037BAC22-DB58-4267-9C93-72E9BA579829}
+      IID 160
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {087E5E8E-64A8-41D3-A3CA-AD8FB9D19B04}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.7
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35DA5A45-FC5F-4FCE-B2A0-78C1C10EF6DB}
+      IID 161
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9C9917A-A66F-4EEC-B068-C4F718C2E45D}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.3
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D5493675-7DDB-4BF6-A7B6-B60586FC5615}
+      IID 166
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6451552A-BD17-4111-B826-9AFB4CFAF8C4}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.6
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {048A7637-681E-4ED9-BEBA-85104FF2FD8C}
+      IID 167
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28F30D29-3847-4D12-B071-7FCE77A124C9}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.8
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {38D4AE30-30C2-4A0B-B364-1C3D86DEDC30}
+      IID 177
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1ECA5DF-EBA4-4705-844B-AAEE6314428B}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.7
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D1642C3-31A5-409D-915F-B0AEA27BF33F}
+      IID 178
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48125973-3604-4015-BC3A-3E5D69B87FCE}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F2ABD43-B465-4E7B-8FFA-0CFAA0067576}
+      IID 179
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B447978-3119-4020-9517-F3C348C8D058}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.2
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A6022E62-272E-44AF-9E0B-E8F2CC8EE7A4}
+      IID 180
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25B5FB3A-5A6B-493A-99AC-C44437EA2C1A}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD88F430-7888-4342-8283-58EAC8BD7559}
+      IID 181
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1E1CD40-20EE-4A08-8E36-1E1FB5D25734}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.1
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {99D48E40-3CCF-409E-8374-6E3390F1E0E4}
+      IID 182
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4909BF81-B9D7-489C-BD26-8C31C1D9914A}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.4
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {56DAC53A-3D3B-438B-8B4B-7E9728ACFCC7}
+      IID 183
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E1C9551-2861-4070-A197-4DCCEB87449F}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.6
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CAA31D43-70F0-4692-A130-D754394691F8}
+      IID 208
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C75739AD-8AB9-4492-81B7-5AA3409A07A6}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.8
+      SNAPOFFS 0
+      LENGTH 0.05045129954423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.05045129954423 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A23074C-FA69-4D1C-B2B8-24F977810947}
+      IID 220
+      NAME "Week 2-004.wav"
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0154 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1BB0C687-560B-41B3-85FA-EB270AB7089F}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+  >
+  <TRACK {C5650DAE-0898-46DD-A7C6-870D84553C4A}
+    NAME "kick hi"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.31013106676666 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C5650DAE-0898-46DD-A7C6-870D84553C4A}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0A070AB0-0361-4760-A6D7-E863A250301C}
+      IID 144
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B2CE636-A54C-4BD2-9757-E21551050885}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.9
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8537049-67CF-4898-9453-58A6B7DB3CF6}
+      IID 157
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5639DF16-D3C4-428C-AB75-805E73EDA409}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.2
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {60E09362-5D16-4C79-A63F-D75A1D167AA0}
+      IID 151
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06BA419F-29F8-4B02-A448-82DF92411E7B}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.4
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B989F189-5892-4651-9E68-40998314A5CE}
+      IID 162
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9775B408-F751-4A6A-9A78-A8BD5A75C9C5}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.7
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C13123A9-C627-4DA1-BA0F-97DB271FFF46}
+      IID 163
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1070966-FE9A-418E-9949-FD83B06F2E67}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.3
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7B5A66F6-06B6-4010-8DD3-11C6DB77B349}
+      IID 168
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {718CDF4F-0A5F-42D8-A9F1-CAF856FA4D53}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.6
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {494A8172-26AA-4704-A203-CA413D319689}
+      IID 169
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DED4514C-A89E-4F2E-8447-7566A18D6D92}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.8
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8FEA2ACF-2C5C-4639-BB37-C9DF95A7EFA4}
+      IID 184
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95FF3E38-E1D5-4DF6-878F-18607EAE2847}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.7
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {15C6097A-1958-4440-80ED-356A22271A6E}
+      IID 185
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {260B58D1-2FEF-4D14-9449-A625BF4DDA53}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6023610C-294E-4375-8111-4CDC735AF6B6}
+      IID 186
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4FED2B5-2695-4F21-9A79-1751CD02AF12}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.2
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06A41AD3-964A-4FA4-A7B7-AA362CAD4BDF}
+      IID 187
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6AD51081-83E3-4985-931C-F5F3AB76FFBA}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE2BBACB-EDB4-41B0-8F5A-EDDF2A369B91}
+      IID 188
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EED3DE1-08A6-4CC7-B395-79C2286826F8}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.1
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08A151F4-0A47-4DEE-B0EB-2AB611ADAE6A}
+      IID 189
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3059865-37D6-49D5-BCA5-CD8378962D97}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.4
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50A77C8C-FDF0-4970-B6A0-47F73EE6D8D0}
+      IID 190
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54D0BF2C-D884-41A1-8C63-ED5D58BC7FA6}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.6
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5F7D0C2B-9F14-4CF5-A0CF-564B01711731}
+      IID 209
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A47F915-B23D-483D-AACA-444FC0DACE29}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.8
+      SNAPOFFS 0
+      LENGTH 0.01539747453623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01539747453623 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2F566C05-089B-43BF-AD77-5E3187575995}
+      IID 221
+      NAME "Week 2-004.wav"
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 0.02319066899674
+      PLAYRATE 0.0206 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1872FFA-37EB-4459-B41F-68E123CA77A5}
+      <SOURCE WAVE
+        FILE "Media\Week 2-004.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\CART\346\Week 3\Week 2-004.wav"
+      >
+    >
+  >
+>

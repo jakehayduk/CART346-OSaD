@@ -1,0 +1,5053 @@
+<REAPER_PROJECT 0.1 "7.79/win64" 1790568746 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 0.25 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 2.64705882352941
+  ZOOM 15.43093450728754 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN $project
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_NORMALIZE 193 0.125893 0.891251 0 0 1 1
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 170 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {ACCE4EE0-E00D-46AE-B697-974A218C584A}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {F062560B-102D-4DD9-A3AB-3775BCB8A7E8}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {AB3673B4-8F70-4F47-A04D-658A9F6522BC}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {47BAECEF-5C9A-4C0C-B3D4-D22D28FBE993}
+    NAME kick
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.62932758817064 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {47BAECEF-5C9A-4C0C-B3D4-D22D28FBE993}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {13C8FDDE-1039-4DAE-A5F1-AA5F0554601F}
+      IID 895
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD7F65EA-AE61-4ED8-A604-78E26B17A74F}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.52941176470588
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AD39F46C-92D3-4048-A22C-65D580AE5C52}
+      IID 990
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.524807 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C38902AE-A704-403F-8178-B828F098531F}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.70588235294118
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8616E53D-48C4-4D47-8197-4EFA40D16960}
+      IID 897
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FB2742A-136C-4A83-8037-A0F27AAE36CF}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.41176470588235
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFE182F0-EE37-43EA-B525-4CCFD90FF2DA}
+      IID 898
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D87BD8F-D434-48CC-8020-2F29BAF6D8DD}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.94117647058824
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3CEC4D2-8AC8-497B-9815-BB758D9ECE1F}
+      IID 991
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.524807 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99930797-1A6E-477D-B2C8-FAE6AB0E5A8F}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.11764705882353
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {02A7AB03-ECF6-4FB8-8E22-7EE21ACDBAB6}
+      IID 899
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2E00282-2ABE-4E5D-87E0-68842C9E3186}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.82352941176471
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3BE76ACF-DFFA-4D51-A6C5-07851209DDCF}
+      IID 992
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {45972029-10FB-4FC5-9B10-68BB278CBC98}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.35294117647059
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84B64752-5D1B-41C2-A2A3-0485EB50CFC6}
+      IID 993
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.524807 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BFE4DA3-DE52-4643-880A-B45FF55280B2}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.52941176470589
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1D5787A6-D008-4FF5-969B-93B6826213F6}
+      IID 994
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E95FC14-7283-4E1F-8D96-39D9CCF57B44}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.23529411764706
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2F701B09-757A-46E3-B2E4-043FE41BF3FB}
+      IID 995
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B703409-29BC-4341-B6D8-766973B9A7E6}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.76470588235294
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {943CE19D-46DB-4479-872B-E52EAEEFDE1B}
+      IID 996
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.524807 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8F60B99-1413-4AC5-BD05-009F1BE055F7}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.94117647058824
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {411C0015-6179-4D60-BE74-249D8B3CAD02}
+      IID 997
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {325A94ED-6B35-4BC7-8DC3-E2C76B45E078}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.64705882352941
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {256B58A6-17E8-468D-B3DA-4E83F4F9E1D4}
+      IID 998
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5F63C72-BDDB-4CD0-A2C3-2C3233E622FB}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.17647058823529
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {904CB9CD-28CF-4859-AD8F-E080A01946C0}
+      IID 999
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.524807 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2595C526-3282-49B4-8F65-A07888EA23FC}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.35294117647059
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE6B7B69-12F3-444C-9257-4AEEA95FCA1B}
+      IID 1000
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AED18A1B-2242-46E2-8037-FEF464308F91}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.05882352941176
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {20B3F8C3-6518-4E33-B2F1-66D95345B5CB}
+      IID 1001
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7FB3426-87F3-4826-A9B6-38BF0E4AFB89}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.58823529411765
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4B7DB51A-C277-48C4-8DA1-60903EC8192A}
+      IID 1002
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.524807 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27E918C0-92AF-4C3C-813A-16EAFC123309}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.76470588235294
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1462E6E4-94B8-4844-A4DC-5CDA24CF23B6}
+      IID 1003
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3FDDD049-E4B6-48D8-89B4-D05E4D199217}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.47058823529412
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E544E841-1CE6-4CDD-8376-AFDC64FA287F}
+      IID 1004
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0D02648-D556-447E-9ED0-AE18580F27CF}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {38144676-59B3-4AE6-BCD1-0322F20C6C26}
+      IID 1005
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.524807 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {914CF5D4-E6F5-4D3E-B87D-99C7E9E99526}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.1764705882353
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {095DD34D-677B-4C2F-A9E2-8FBE0A643CCC}
+      IID 1006
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8735182-1743-4D9D-AD80-1AA821B11064}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.88235294117647
+      SNAPOFFS 0
+      LENGTH 0.13985245613855
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.13985245613855 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FADAC30D-1DD9-49E9-A616-8256B8832193}
+      IID 1007
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00616069219513
+      PLAYRATE 0.006 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BEB9DA51-7B05-4FD7-9ACE-C5F9C84B2545}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+  >
+  <TRACK {9513CF34-61D1-4668-A615-CB5A29560715}
+    NAME clave
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.35148740112729 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9513CF34-61D1-4668-A615-CB5A29560715}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.35294117647059
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E1B0261E-20C4-4CFF-A880-3E09D2978441}
+      IID 900
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE1C6C9A-5123-4AF5-AB16-5D9BA60C0BA5}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.70588235294118
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {935658AE-4F5C-4473-88F5-A83F5531F13F}
+      IID 901
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE393180-7519-4AAD-84B1-3DB4936BF672}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.41176470588235
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4F66DE4-DF0C-4F85-9371-811C0CE73056}
+      IID 902
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C2BE855-C2F3-4930-83E5-1307E6B59CD1}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.94117647058824
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BBA76125-077B-481B-8B64-D3F86FD1C5BC}
+      IID 903
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F6DDEC6-AC13-4579-AEE6-A74A0A35408E}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.47058823529412
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C4B900E-7570-4292-843E-74F2FB2F73C6}
+      IID 906
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B06BE8CD-FFF5-4103-B99F-5738BFC1E160}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.1764705882353
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E34F96BD-3F4B-4EA7-BFCB-416884D8806B}
+      IID 911
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2FF65530-35CE-472C-8B8E-221BB40BD1DD}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.52941176470589
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CDBE5100-4ECD-47AA-8A87-2270A40ED372}
+      IID 912
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1727216E-0BB2-46EE-8C98-56053CBF53B8}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.23529411764706
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0DDB68BB-2E93-46ED-AFD9-8A2E5DE3E308}
+      IID 913
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07F8D96C-CBE1-42E9-9EDF-E3A67FBD81BB}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.76470588235294
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {34AC743B-8A0A-4299-855F-4247A78C180D}
+      IID 914
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFD36461-5344-433B-B6F3-D93976875ADB}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.29411764705882
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2AA5E2E3-9411-4E7A-BEC0-631E5779C9DB}
+      IID 915
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05787107-249C-402E-A7A3-8C994D20EF71}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD19623B-6414-4592-ADDB-CE8CAB23ACBB}
+      IID 924
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3620829F-AABD-49CD-AE74-0F4F4C7B6095}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.35294117647059
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {13E59339-F4F3-4877-BD44-DCBB2A2384C2}
+      IID 925
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CFA438B-C448-4962-B91A-C0A734AD1CBE}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.05882352941176
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10955B55-052F-44A4-964A-C44ECFCA9F6F}
+      IID 926
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD7E9F89-AFF2-4C09-8548-007375CAC6B4}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.58823529411765
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2CF05F73-FE00-43F7-83E8-C253A94146CE}
+      IID 927
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD99CBF7-5700-498E-A0DE-C3968A770917}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.11764705882353
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26219B3B-E2A5-44EA-8F38-60CF7E4691FC}
+      IID 928
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50E32968-1227-48CC-999A-AEFC76E7AF6F}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.8235294117647
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A0F42E6C-82E4-40F7-96DD-1B3C1E1C878F}
+      IID 929
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41AAA9B7-B04F-40B7-9E19-8C1EC9194863}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.1764705882353
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {92B98C11-AFEC-4AB4-9AE7-AE21C7A37966}
+      IID 930
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6AF879E3-2791-4A9A-A389-2EF5A7DF35EC}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.88235294117647
+      SNAPOFFS 0
+      LENGTH 0.05182010173523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {67FDE838-D7BE-4E1C-922A-688C28806B75}
+      IID 931
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B37E973-CBD2-41C1-A91E-FF37E003BBAF}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+  >
+  <TRACK {DED3CEBD-5325-4B1D-A686-E1A8C20B24F1}
+    NAME "shaker left"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.57403385915171 -0.472 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DED3CEBD-5325-4B1D-A686-E1A8C20B24F1}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB7579AA-90C5-45AC-9425-CA460F6051B1}
+      IID 952
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DEF43921-955A-437B-910A-51884962C0DB}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.08823529411765
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB52C072-0F35-4FB2-AA67-7F92100D1713}
+      IID 953
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E95E2ECC-150D-491A-9E98-38DA74447E23}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.35294117647059
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {287F0402-DF47-4FFF-8515-4E582CD3AAD1}
+      IID 954
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62565223-F6C5-499A-B98C-E51EF6EB368E}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.44117647058824
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D15A1DEC-1C28-4722-9F3C-9DF355897B3B}
+      IID 955
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E52E4A6D-CA89-48C8-B740-5B0723C64BC8}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.70588235294118
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7921DB70-EB73-4AE5-A42C-7E2C87ED88D5}
+      IID 962
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB8882BF-72E1-46A1-A0D2-767FF9D65AF9}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.79411764705883
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CDA50A26-9E17-4341-A9BE-FFB47117FCD6}
+      IID 963
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5388F413-CBB1-4A8A-9607-46F856890A9B}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.05882352941177
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA52966C-F053-4CF0-B1DC-6A75E0954838}
+      IID 964
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88576828-C84D-4A4E-A235-067C939622C2}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.14705882352942
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B133E54E-7DA9-4EE7-8E8C-3EFCF2190118}
+      IID 965
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD6CFDDF-C7EA-4010-B685-A9E064A7D316}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.41176470588235
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9D2994FD-2774-4246-8673-A380B379E294}
+      IID 966
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A4CD511C-DBC9-485D-9D07-0531362FCDC9}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A6334C8D-3BC5-415E-8626-71C23081F31F}
+      IID 967
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A81A5898-A417-4F21-B9F2-519546A487CE}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.76470588235294
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C546A1B-C7AA-4BC9-8D56-EBAA5F5D9B1D}
+      IID 968
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B82A92D6-4344-4546-B749-F3AA7A5B18B2}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.85294117647059
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F9E9609-97F6-4670-9F09-1B16CB5DBE7E}
+      IID 969
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28DF3EFC-EC8A-49FD-9EE1-E0D9FAE7E7A6}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.11764705882353
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3F0B809-965C-4DD1-BEBF-95D375BF8AC0}
+      IID 970
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6FA712D7-4737-4DA8-8D88-6F0109E8DAB1}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.20588235294118
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB06CF6B-4FAD-4067-94AA-650CBE0BDE8D}
+      IID 971
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32DD6C7E-4E07-43C6-99A9-D5DDA7CD80CE}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.47058823529412
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54D50F2E-1AB7-4AAD-A1B5-3A20E3E74A4B}
+      IID 972
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67AE4AA8-E6AE-45BC-8C7A-6D44F16CB845}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.55882352941177
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DBF26FE0-695D-4532-8414-84E6BEA3F50C}
+      IID 973
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4423EEAA-B285-40E5-BBC1-F5136FB47646}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.82352941176471
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08995A95-F6DC-45E0-B52E-52AA2216E687}
+      IID 1010
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AFF2B24E-3046-467F-A073-B22CE1BAB6FF}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.91176470588236
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B386F31D-81E6-4557-B9D4-E60E929B25CB}
+      IID 1011
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0F2B2FF-D6A7-4D89-8AA4-C472A445A52B}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.1764705882353
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2EDF7422-2737-4187-85FC-B592047EAE22}
+      IID 1012
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9457BAB7-DA4E-4A90-919F-0BA0F5D8D2E9}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.26470588235295
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {74D03993-7F49-4F75-964F-4EB9DC3A11C0}
+      IID 1013
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4169362-50A3-44E0-857F-EB986295E864}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.52941176470589
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8227CAC1-3908-4565-BE19-2FA1AF6B3DFF}
+      IID 1014
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B151015-7B06-4F1F-9780-9CB208A4D0BE}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.61764705882354
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E4664623-AB6E-4BD8-9241-06AA045EC56D}
+      IID 1015
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {16A90276-8275-4ACD-8E95-648C32F81687}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.88235294117648
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F309655-8BDA-4766-A04E-D5ABF841089E}
+      IID 1016
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8AE89D0-D36C-425A-B21A-589B16C700C2}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.97058823529413
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A205DEF0-7F83-461C-9285-2230DE691D34}
+      IID 1017
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D70E3A97-3DD5-4B25-8884-0EF371D06BB7}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.23529411764706
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {22222B26-BACC-447D-9B27-AA684934DE6C}
+      IID 1018
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2C7AA86-C8C3-4514-8BB0-573A2E8CC443}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.32352941176471
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C1FD8CB-53DF-4CA0-8453-D4C03217F087}
+      IID 1019
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E1C8230-485F-47A8-9361-51819331EAB5}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.58823529411765
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B731CAFC-FEB9-473E-923F-A99AFC4ED7D3}
+      IID 1020
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5A0E4FB-471F-4735-92C1-0ADDF19B894C}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.6764705882353
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {01AF5905-ECE4-4DAA-B0CB-32CA266D0E48}
+      IID 1021
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62F5F399-697A-4809-B6C9-59F6F6D08008}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.94117647058824
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {237CC56C-4730-4182-B53F-98CD408A2AED}
+      IID 1022
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF676E25-5A1F-4B51-A7DC-973A10CE16EC}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.02941176470589
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B26B3BCD-2AC7-43CA-A2FD-8DBD2890DBDA}
+      IID 1023
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8563067-935E-4C72-A50F-826490DABAD3}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.29411764705883
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E493026A-8BBB-4C9F-80CB-7FCAC14C6030}
+      IID 1024
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00F28899-8E42-4337-9400-9B0C861EA10A}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.38235294117648
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46243552-D611-4F35-B0CA-725BB6226C38}
+      IID 1025
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B481BED6-433B-4DD7-8305-E9E6EC8623FB}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.64705882352941
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {836820F0-0993-4586-8361-A87C0CC6381E}
+      IID 1042
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {116FFDBA-ECAC-4133-AA2F-9D4B1FC95C75}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.73529411764706
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3652073B-D3BF-4797-9832-7E83F93F4C98}
+      IID 1043
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99AFBF72-0257-45FA-8F71-DE0D426E382D}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EA0D6715-0033-4F2F-B1B9-800558486809}
+      IID 1044
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F000818E-95F1-43F2-95F1-8774FCA2F677}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.08823529411765
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D00CB43-2153-42B7-A2E6-1BDFC71BD1C4}
+      IID 1045
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {319B7991-7838-44D0-A205-5577A8CC2D93}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.35294117647059
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EE12734A-FBB3-4C72-932A-CED4D211B689}
+      IID 1046
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F671DE0-509F-4651-B712-787EA9F162A3}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.44117647058824
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D0F11407-CDCD-40C1-BB7D-510FC694F3EB}
+      IID 1047
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5AA838A5-116A-42D6-9EFF-CFABF9797F23}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.70588235294118
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {79C2480C-F6DB-4F65-8696-8E52F5336A31}
+      IID 1048
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9108F87-F779-4530-8E95-BF14F774E615}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.79411764705883
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80091C80-39BB-4823-8065-361F6B2EF341}
+      IID 1049
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D2EBF2E-5709-437A-AEF9-B1D531C0AEDA}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.05882352941177
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06A76F16-A38C-4275-A9B3-71B2305E0FF3}
+      IID 1050
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D6A1874-6095-49A8-880C-B2ECB73F61B6}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.14705882352942
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {789E244D-D1A4-4034-9F1B-DD4F903841A9}
+      IID 1051
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9919D85-0DAD-4AA5-B4F2-F85CE0011771}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.41176470588236
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4B3E353-4B4C-43BF-BA70-21B6BB53A6AF}
+      IID 1052
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1099ABC2-D735-426E-8AAB-0AE4E7471116}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CDE458D3-24FB-4AD2-9A4B-FE7C2D8DB002}
+      IID 1053
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5B11C6FA-4433-421E-8579-EF1B567D3FB6}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.76470588235295
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F113F873-0C24-4983-AA4F-ACEF962B871B}
+      IID 1054
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FDABC29D-B0EB-4DD5-8774-D9F7F22988BC}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.8529411764706
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3CC9BF90-F50E-4E9D-83FA-E6CCACAF2382}
+      IID 1055
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A545FB00-47F7-462D-A07E-E21690909E31}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.11764705882353
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9DF50E25-726F-4E56-96C5-80B8768152FC}
+      IID 1056
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7375E96-8BD4-420F-A434-010622DA4BD8}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.20588235294119
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {896344D0-E738-414D-8D9B-29D8896CF17C}
+      IID 1057
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {955C706C-84F3-4932-8D7E-4760F2055568}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.47058823529412
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BFD9C364-4C46-4C38-82B0-F55588B9BFEF}
+      IID 1074
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E725AA4-AE5E-4345-A12A-0641E426EB6B}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.55882352941177
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {209C42E9-E682-4F15-A005-3F867487DAF2}
+      IID 1075
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF144E69-178A-4276-A620-D576181B3192}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.82352941176471
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {008BB9DC-B4B9-4ED0-B0C4-44D154FE02A2}
+      IID 1076
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FD2F01C-32D9-47BA-B771-E847531B7C1D}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.91176470588236
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9683C4D5-0109-4450-96E8-E5C90A7F6F48}
+      IID 1077
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE7A7102-C1B2-4C54-8290-DC97A85A7664}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.1764705882353
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {833BD23A-7ABF-4922-A8AA-105799904E89}
+      IID 1078
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F18BD73-97F0-48C2-BC9F-FA915FD93037}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.26470588235295
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8215991-AF6B-4D33-B920-274AB2B5E918}
+      IID 1079
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0A5CCF9-D67B-4100-A15A-D209A01336E1}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.52941176470589
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D7F3C8C8-43DC-42CE-9E82-13B2A7C2B860}
+      IID 1080
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A6DC80A-DA9C-4E90-B9F7-802524A45B47}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.61764705882354
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {780CB9AF-9E5D-4F7B-B0BB-6B187D6A5BCF}
+      IID 1081
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE755847-DCC1-41A6-8657-C9D6F20A0C17}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.88235294117648
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19FDFE63-204E-4CDD-844A-F96EF05C345C}
+      IID 1082
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB2E3C34-A26E-4EF8-8EF6-479C9BB569DC}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+  >
+  <TRACK {A42B6D69-1C8F-4D4F-AEFC-EA2BDBE281B6}
+    NAME "shaker right"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.57403385915171 0.464 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A42B6D69-1C8F-4D4F-AEFC-EA2BDBE281B6}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D758C78D-B6E2-469F-8090-958CC8FB0D3F}
+      IID 952
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46C0BE51-6DCE-4CB9-B13C-BF7F004E2B27}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.08823529411765
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BEB040CC-1909-459A-A8ED-29C0C8893088}
+      IID 953
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B06A28C2-D9EA-43A5-93E4-D1D8A38A5ADA}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.35294117647059
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F56B9BE-5240-4930-B394-393B68F59685}
+      IID 954
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D45A3E2-5957-4E0D-B749-9124A7C2FB73}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.44117647058824
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CCD51397-5F25-4C1A-938C-64F99D91683A}
+      IID 955
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E544460-0EE2-418B-92B2-9661760C5574}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.70588235294118
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F845A249-6A1F-4063-A391-7B2669A21963}
+      IID 962
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A6F9710-0612-4F7A-A954-FC829A097B3E}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 0.79411764705883
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FEC78A77-A96E-4B5E-BC6E-FDC76F2A9A1A}
+      IID 963
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F160C85-DA1E-4C30-9132-55869F565ACE}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.05882352941177
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3A17F9A-759B-4EA4-BF90-5094351CF6ED}
+      IID 964
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D3755CD-65A0-43B3-8D9F-020FC3EB72A3}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.14705882352942
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {17A23A73-3E38-4629-9D9B-6EE9E999FFD8}
+      IID 965
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4EBB9A46-1608-476A-AA6B-A4229DC350F1}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.41176470588235
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BEC0DD01-5CCD-4F04-ADBD-E015133FE792}
+      IID 966
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9F717D9-4C52-4741-89AA-930BDE964BB4}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F0694DBF-2C74-4EFC-A968-411C8ABE7FFB}
+      IID 967
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65FBE616-87E7-497E-A892-5D82E315A36B}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.76470588235294
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {96AFC1A5-81DA-434C-A74C-83FBC94DF958}
+      IID 968
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF4BDFFF-42F0-4E29-BAE7-436FAB9F3096}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 1.85294117647059
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD4FC2EC-3C5C-41C7-924E-66B28D6E9AF9}
+      IID 969
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CDFF6C9C-46C3-4856-9F98-6823EE8BBFBE}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.11764705882353
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C70DDEE2-B0E8-4AE8-AD67-855C83FBBEF1}
+      IID 970
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97A89AF3-BE91-4207-AF10-3FBBE03D60F7}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.20588235294118
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF133B87-5BB8-4F21-84F1-FEF172AF43A3}
+      IID 971
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69F0DFED-3EC7-4730-81A5-735B2C998BB5}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.47058823529412
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0CC09494-8500-4844-9FB9-5231BB6A85E3}
+      IID 972
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B064544-EBAA-47AB-9FF2-9BF03D49F576}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.55882352941177
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A11E1B1F-D348-4150-8F4C-246276D181F0}
+      IID 973
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CAED7C87-530F-4C7E-A209-71D8A698AA86}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.82352941176471
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA493F66-D878-42D4-BB91-EC06F66CE000}
+      IID 1026
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A587549-FB4A-42A5-B930-214D08706856}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 2.91176470588236
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF5DC11E-3008-4299-98CC-2DBCCBAD199F}
+      IID 1027
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FFD42E76-A9ED-4175-84EC-0100CEF8E218}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.1764705882353
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {426C4C89-F3DB-432B-AE49-AE06634A44F9}
+      IID 1028
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B501C16E-CF36-40F2-8055-6959C7E1ED27}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.26470588235295
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CFDA45C0-1922-4955-AF73-5777A3193367}
+      IID 1029
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AFB62044-7D7C-4007-890A-E4ED0AAFDCD6}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.52941176470589
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {405B4706-AD58-4A4C-9C79-34AF65B31D2F}
+      IID 1030
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70421A97-34C2-4858-A070-48B98E990EB5}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.61764705882354
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6907A131-928F-4E62-A837-389D6A655987}
+      IID 1031
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F11A09E0-9882-403A-8721-C8EB20A669C5}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.88235294117648
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9004F6FC-B5D8-498A-8892-2894297A8C77}
+      IID 1032
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {764C5ABF-4138-4F5F-B1CF-4549F3E8085F}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.97058823529413
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CA57C62F-7A2A-403B-8833-E860E7D9A75A}
+      IID 1033
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {760E11E8-18CC-42FA-AFDF-3A0BF7BCA16F}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.23529411764706
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {82B32BB7-4921-4020-81A4-F738633A18B3}
+      IID 1034
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A90BFD20-2D18-4A39-AF20-FB90EAD4016F}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.32352941176471
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EFE0841-4C99-454E-B552-462DC9F81865}
+      IID 1035
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD2F7CD2-D439-4E44-9F07-C15635BAB4E2}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.58823529411765
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EF21646-A915-4267-BB6A-D03A9928EDFE}
+      IID 1036
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BDD6B86-EA17-4DB9-92A8-8C389D6CDE08}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.6764705882353
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {40AE48C7-F8DC-4D70-8EAB-C31799068303}
+      IID 1037
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E016796-81E2-4FB4-A434-2D82ACE84A51}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.94117647058824
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A4D5A7D9-F4E1-45DE-9DB1-C90B701CAA31}
+      IID 1038
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D5D58AF-5A8F-4BB2-8168-2A04438ADDFA}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.02941176470589
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2DD8B3BA-DF58-4C3D-85C7-57FF376D5766}
+      IID 1039
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2D4E166-5407-4961-855B-17FEA0ACF9D4}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.29411764705883
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {873A04AC-6DDE-4347-B9AC-C349CE5E1481}
+      IID 1040
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CECB5D8A-DBAA-4D30-BBC0-21AEF6505D5E}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.38235294117648
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E92BB3E2-FA6D-4699-9EE6-38CACFAF99B8}
+      IID 1041
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30C7829B-9BD5-4FB9-8391-865185512E43}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.64705882352941
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {45A6AC29-DADB-49FB-A71B-FCDD8BB80002}
+      IID 1058
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2025E2B5-C493-4C09-B00B-6D0F93CFEA82}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.73529411764706
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8437F04B-16CB-4B72-9249-078739642C4E}
+      IID 1059
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23FECED3-5CA1-4AD8-A3BA-D7EB1F4100B3}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {72DEC38D-D120-4F89-A201-E2332E1B6105}
+      IID 1060
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FDD4E291-1591-417C-83DB-7CC4325CDAA3}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.08823529411765
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D0AE284-023D-4C45-82D2-60ACF6CC13CF}
+      IID 1061
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3AB39244-C4FA-42DB-AB65-350B556187A5}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.35294117647059
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BEFD3B13-E49D-4FE0-9C6A-D7DF8E116C45}
+      IID 1062
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6670DDE3-8D24-46D3-8B4B-2C9D8D9E3F72}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.44117647058824
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09975BA0-1EBF-4237-B757-4B636EA0C600}
+      IID 1063
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB297E43-2E16-4C63-BA34-7819AB07CA4C}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.70588235294118
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07F5BFA5-3878-447F-BAA3-67429C6ECCE3}
+      IID 1064
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BAC02F91-F4D2-440E-A8DC-BFE1D9085AB3}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.79411764705883
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E591A8C7-05B9-46FC-9561-D448722843FE}
+      IID 1065
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A369F036-626C-433E-9CDD-A00D35D8CDBD}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.05882352941177
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D01C7566-E459-4377-9996-1308929BA66B}
+      IID 1066
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {982F78A6-38E0-4107-917A-EF4A2F1D6F20}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.14705882352942
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6613188C-D65E-4569-8669-080E13759C00}
+      IID 1067
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB157433-BF7E-46B6-8896-22D1614EE908}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.41176470588236
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFA55684-FBFB-496C-880C-BBB7DC3956B7}
+      IID 1068
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4DCC55C9-70BC-4C75-85F3-8654F070580E}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {18568FE1-4982-4E25-B676-1A8AFB5825E2}
+      IID 1069
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {251CD059-0E02-437F-8187-655E77653288}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.76470588235295
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7BFE2C62-932D-405C-8080-787F07BECA3C}
+      IID 1070
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0523B3A7-11AA-43E4-8DBE-E413D1015632}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.8529411764706
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A209F2A8-7EC5-41D9-B0B9-61EC7D3A36F2}
+      IID 1071
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E71ECA97-88F0-44F6-92C7-9BCCF2E4AEB4}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.11764705882353
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {76DE5BCD-E6D5-4464-B4B4-5CDA7B75DFB3}
+      IID 1072
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14B0F314-0975-4929-9DD9-2D4D1306DDD1}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.20588235294119
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {22251CF6-A90D-4113-A36D-29108FB00FF2}
+      IID 1073
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E34AE7B4-CE67-46FD-A338-AAB5341AFF90}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.47058823529412
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8175B764-9805-4680-B5B5-BD7F3FAF1FEB}
+      IID 1090
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D5F1020-0878-4452-8D23-485E72700ABD}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.55882352941177
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C8EA0DE-1A19-45A5-A1C0-66090E2D1B5A}
+      IID 1091
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82C9B462-90A5-403E-ADF9-90422B385E77}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.82352941176471
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DCC83339-7FAE-47DB-92AD-40B339693190}
+      IID 1092
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A10CE8E4-6EB5-43E8-952B-8EBB9FA4DF36}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.91176470588236
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D403903-2C06-41ED-9D66-3F309992ECE0}
+      IID 1093
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE157964-D25B-403B-BF52-8BD4A1575C55}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.1764705882353
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2BFDAA05-1FBA-4B85-BF51-2E5349897745}
+      IID 1094
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20152E76-60AF-4928-B933-2C221691E445}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.26470588235295
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8952A06E-F695-4765-AE53-B3AE10399677}
+      IID 1095
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52C9B89A-F0B9-4D74-B036-D2C1F99DD57E}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.52941176470589
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.04500689231292 0.07135988908856 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FAEC628C-79DF-42AE-97DC-8F568E4FBF41}
+      IID 1096
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {36912880-4A6C-4698-B217-4518EEEA6253}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.61764705882354
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07135988908856 1 1 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2DE83ACB-1EF0-4F39-B024-49A416FB19C6}
+      IID 1097
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 0.42658 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAC942E8-9249-4D47-AC0A-33E810522BCD}
+      <SOURCE SECTION
+        LENGTH 0.47878554961863
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media\C02-S02-utensil-drop.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.88235294117648
+      SNAPOFFS 0
+      LENGTH 0.15959518320621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.04500689231292 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {21D8C3AA-E761-4E1C-8DA2-3955AA81DCE6}
+      IID 1098
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1453D8DE-BDF7-4513-96BF-710A2BF71A6C}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+  >
+  <TRACK {546E0F41-99B3-4034-9159-A532A9E93034}
+    NAME melody
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.30302350576016 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {546E0F41-99B3-4034-9159-A532A9E93034}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.82352941176471
+      SNAPOFFS 0
+      LENGTH 0.1486132215318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.10615230109414 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F849D613-EFCA-48FD-952C-B77C82482C61}
+      IID 1106
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.35 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0435C35-9D66-448A-A522-A83E84C40B19}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.35294117647059
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C168CEC-9C09-4E77-B0C3-22AAAEE786DC}
+      IID 1107
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14DE24A9-152B-456A-9C72-97B6B7609486}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 3.52941176470588
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD41FF91-EC44-4B64-9799-E8A8719EF6EA}
+      IID 1110
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {101F4D6B-5F0C-4C08-AFA6-8F65F506F2A2}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.05882352941176
+      SNAPOFFS 0
+      LENGTH 0.1486132215318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.10615230109414 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {12F6C140-CD1A-472F-B4EB-EC86F3F492B5}
+      IID 1111
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.35 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10267CAD-9E65-47B7-A879-9968F1D95D34}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.41176470588235
+      SNAPOFFS 0
+      LENGTH 0.1486132215318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.10615230109414 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {803F4854-E31E-4B30-BE5F-E9F4C19BACF9}
+      IID 1112
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.35 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E4E1100-7474-4943-B4B4-380A99FD1331}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.76470588235294
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B9CC48FF-82C4-43E2-B3B3-5B10EB573357}
+      IID 1114
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DCCAEE1E-4431-40E1-A7FD-E90999AC1613}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 4.94117647058823
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A28410DD-3DC7-47B9-97E8-DAE1A4AC3F63}
+      IID 1115
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE2189AF-D8FE-458D-9934-BE149EAA65EF}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.29411764705882
+      SNAPOFFS 0
+      LENGTH 0.1486132215318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.10615230109414 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EC018FD-9B3B-4739-B253-2AD2FB39CE5C}
+      IID 1116
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.35 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60665040-14CA-4515-BD93-33A7BC5C9E0E}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.47058823529412
+      SNAPOFFS 0
+      LENGTH 0.1486132215318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.10615230109414 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF6B5919-ECFF-4B94-A419-CE39FB988403}
+      IID 1117
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.32 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55312606-EB95-4584-BCC3-BBD619D31192}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 5.64705882352941
+      SNAPOFFS 0
+      LENGTH 0.1486132215318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.10615230109414 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F08B130-0BA7-4196-9EF2-194019F31084}
+      IID 1118
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.35 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B2C71E7-3DA0-496A-8BC0-9D944EB1707C}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.17647058823529
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F44CF85A-FD42-4CBA-9005-AC187B262591}
+      IID 1119
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27D939CB-E926-4F35-8314-56245BBDE208}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.35294117647058
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9B527802-5AD1-4DF9-A250-4BD8647A546F}
+      IID 1120
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FBC01A3F-5818-4211-9F93-144463E448AB}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 6.88235294117646
+      SNAPOFFS 0
+      LENGTH 0.1486132215318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.10615230109414 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {95C78661-EEC2-4ED8-8B20-C3D4884DE39B}
+      IID 1121
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.35 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A729017-E338-4D85-8CD1-2454E208D056}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.23529411764705
+      SNAPOFFS 0
+      LENGTH 0.1486132215318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.10615230109414 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BFBF338A-2389-45E9-A44B-E49E6116F1F5}
+      IID 1122
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.35 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3450C451-96AA-47C1-8A21-9E7B340ED960}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.58823529411764
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {55E5FD24-9E29-40A8-BF98-135C9C18391E}
+      IID 1123
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9019611-6C87-4D80-A09B-AE8BD5307B6F}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 7.76470588235293
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C44FEB7-3077-4C72-B5A5-BB945053CC5D}
+      IID 1124
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1508103E-3ABA-4756-8C95-0B2DB3C06EB5}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.11764705882352
+      SNAPOFFS 0
+      LENGTH 0.1486132215318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.10615230109414 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E853DBE1-0BEC-4488-A5EA-6EF4EF3F8234}
+      IID 1125
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.35 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A33BD158-BDE7-446D-9E72-55161F8BA7E3}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.29411764705882
+      SNAPOFFS 0
+      LENGTH 0.1486132215318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.10615230109414 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C09D15FD-63A5-4C0D-9B00-DD74D7CC73B3}
+      IID 1126
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.32 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F208BBE-864C-460E-BAE9-1508731581C4}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.47058823529412
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9BF8B151-F433-4079-8A82-902BB56C5742}
+      IID 1127
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A5F9024-61D6-4B82-806D-AA053C212FEA}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.64705882352941
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C6A4294E-017A-4E9D-A714-C75F0926042B}
+      IID 1128
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9348F721-6BB9-4B55-9ACE-4729B2CE1971}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 8.82352941176471
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DB7A86E0-D546-4A43-AB91-D61F4D80ACCF}
+      IID 1129
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2CD8A8B-3DC8-4C7E-AD4E-3CA29A20469E}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.17647058823529
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4AE35A1A-C7D9-4EDE-8079-E406D1A19BF3}
+      IID 1130
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.43 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {418E13A5-01A1-4CB2-BC85-54874D3F9296}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.35294117647059
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FDEECD31-87D3-4238-9B1B-413E846826CB}
+      IID 1131
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.43 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4141775-8394-443D-B525-23CE448981E9}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.52941176470588
+      SNAPOFFS 0
+      LENGTH 0.08823529411765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1 0.08823529411765 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46BCAF90-99AD-4DDC-83EA-FD4931CD669B}
+      IID 1132
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.43 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D9B71A0-CA6C-419B-B6B8-719AA99A307E}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+    <ITEM
+      POSITION 9.88235294117647
+      SNAPOFFS 0
+      LENGTH 0.1486132215318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.10615230109414 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {55021D3F-6DD8-48CF-8E9D-B4E69BC220FA}
+      IID 1133
+      NAME C02-S02-utensil-drop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00606705809112
+      PLAYRATE 0.32 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CDF5170C-A126-44A4-9135-AFB95F21628B}
+      <SOURCE WAVE
+        FILE "Media\C02-S02-utensil-drop.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\theul\Documents\GitHub\CART346-OSaD\C02\C02-S02-utensil-drop.wav
+      >
+    >
+  >
+>
