@@ -49,7 +49,7 @@ Audio files are decoded in the browser and never uploaded anywhere.
 
 ## Sound credits
 
-All sounds in `assets/` were produced by Gabriel Vigliensoni.
+All sounds in `assets/` were produced by Jake Hayduk.
 
 ## References
 

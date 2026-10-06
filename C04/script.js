@@ -5,9 +5,9 @@
 const SOUNDS = [
   'assets/C04-204-resonant-footsteps.wav',
   'assets/C04-S01-ladder.wav',
-  'assets/C04-S02-cutting_FAV.wav',
+  'assets/C04-S02-cutting.wav',
   'assets/C04-S03-squeaky.wav',
-  'assets/C04-S04-buttons.wav',
+  'assets/C04-S04-buttons_FAV.wav',
 ];
 
 // ═══════════════════════════════════════════════════════════════════════════════
