@@ -1,0 +1,1 @@
+All sounds were recorded or synthesized by Jake Hayduk.
