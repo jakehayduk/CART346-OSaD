@@ -9,7 +9,7 @@
             "modernui": 1
         },
         "classnamespace": "box",
-        "rect": [ 1271.0, 536.0, 990.0, 751.0 ],
+        "rect": [ 1282.0, 555.0, 990.0, 751.0 ],
         "boxes": [
             {
                 "box": {
@@ -1633,7 +1633,7 @@
                     "maxclass": "comment",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 514.0, 425.0, 121.0, 36.0 ],
+                    "patching_rect": [ 514.0, 425.0, 124.0, 36.0 ],
                     "text": "vectorial synthesis with 4 waveforms"
                 }
             },
