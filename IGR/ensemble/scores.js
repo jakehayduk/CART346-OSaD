@@ -77,19 +77,24 @@ const SCORES = [
   },
 
   {
-    title: 'Three groups (2 min)',
-    credit: "All recordings by Gabriel Vigliensoni.",  
+    title: 'C09 · Looney Tuney',
+    credit: "All recordings by Jake Hayduk.",
     groups: 3,
     events: [
-      // Both groups in unison, then only the groups drift apart…
-      { at: '0:00', groups: 'AB', play: 'demo/4', ratio: 1.00, fade: 10 },
-      { at: '0:15', ratio: 1.05, glide: 20 },
-      { at: '0:15', groups: 'C', play: 'demo/door', ratio: 1.05, level: 0.25, fade: 30 },
-      // …then each group also blurs inside
-      { at: '0:50', ratio: 1.05, glide: 20 },
-      { at: '1:30', spread: 1.05, glide: 10 },
-      { at: '1:50', stop: 'all', fade: 10 },
+      { at: '0:00', groups: 'A',   play: 'C09-S02-the-mothership', ratio: 1.5, fade: 20},
+      { at: '0:15', groups: 'B',   play: 'C09-S05-whale-bell_FAV', ratio: 1.5, fade: 20},
+      { at: '0:40', groups: 'C',   play: 'C09-S03-shaker', ratio: 1, fade: 20},
+      { at: '0:45', spread: 1.5, glide: 15 },
+      { at: '1:00', groups: 'all', stop: 'all', fade: 0.2 },
+      { at: '1:00', spread: 0.2, glide: 0.2 },
+      { at: '1:02', groups: 'B',   play: 'C09-S04-synthetic-melody', ratio: 2, fade: 35, level: 0.5},
+      { at: '1:01', spread: 1, glide: 45 },
+      { at: '1:10', groups: 'A',   play: 'C09-S01-hot-cross-buns', ratio: 2, fade: 25, level: 0.5},
+      { at: '1:15', groups: 'C',   play: 'C09-S05-whale-bell_FAV', ratio: 2, fade: 20, level: 0.5},
+      { at: '1:45', groups: 'all', stop: 'all', fade: 1 },
+      { at: '1:45', spread: 5, glide: 0.5 },
     ],
+    end: '2:00',
   },
 
 
